@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darksapien23151
-- 👀 I’m interested in Competitive Programming and WebDev
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m interested in Competitive Programming and Designing
+- 🌱 I’m currently learning Machine Leaarnig and Quantum computing!
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me Mail: manne22bcs134@iiitkottayam.ac.in
 
